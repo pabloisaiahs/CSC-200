@@ -1,8 +1,8 @@
-#Problem 4: Write a program that asks the user to enter the name of his or her favorite city. use a String variable to store the input. The program should display the following:
-#The number of characters in the city name
-#the name of the city in all uppercase letters
-#the name of the city in all lower case letters
-#the first character in the name of the city
+/*Problem 4: Write a program that asks the user to enter the name of his or her favorite city. use a String variable to store the input. The program should display the following:
+-The number of characters in the city name
+-the name of the city in all uppercase letters
+-the name of the city in all lower case letters
+-the first character in the name of the city*/
 
 import java.util.Scanner;
 public class problem4{
