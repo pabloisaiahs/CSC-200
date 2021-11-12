@@ -1,4 +1,4 @@
-#Problem 1
+#Problem 1: Write a program that prompts the user for a measurement in meters, and then converts it in to miles, feet, and inches.
 import java.util.Scanner;
 public class problem1{
 
