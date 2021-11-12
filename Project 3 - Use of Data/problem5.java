@@ -1,3 +1,8 @@
+#Problem 5:
+#Read a word from the user and display the string with the letters shifted to the right by two positions 
+#and with the letters shifted to the left by two positions in the string. Save all of the three strings in 
+#separate variables and display all three of them at the end of the program.
+
 import java.util.Scanner;
 public class problem5{
 
