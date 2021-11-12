@@ -1,4 +1,4 @@
-#Problem 2: Write a program that reads in an integer, and breaks it into a sequence of individual digits. Display each digit on a separate line.
+//Problem 2: Write a program that reads in an integer, and breaks it into a sequence of individual digits. Display each digit on a separate line.
 import java.util.Scanner;
 public class problem2{
 
